@@ -7,9 +7,9 @@
 
 - 👯 Meus projetos práticos estão sendo lançados e aperfeiçoados em **HTML5, Css3 e Js.**
 
-- 🤔 Aberto a desafios em conjunto e individuais que possa me trazer conhecimento e prática !
+- 🤔 Aberto a desafios em conjunto e individuais que possam me trazer conhecimento e prática !
 
-- 💬 Qualquer dúvida entre em contato com algumas das minhas redes sociais.
+- 💬 Qualquer dúvida entre em contato em algumas das minhas redes sociais ou por email.
 
 - ⚡ **Disponível para trabalhos freelancer ou efetivo.**
 
