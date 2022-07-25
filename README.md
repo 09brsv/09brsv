@@ -1,14 +1,15 @@
 <h1 align= "left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Bruno </h1>
 <br>
 
-<p align="center">
-<a href ="#Sobre">Sobre</a>
-<a href ="#Analytics">Analytics</a>
-<a href ="#Stacks">Stacks</a>
-<a href ="#Networks">Networks</a>
+<p align="center">•
+<a href ="#Sobre">Sobre</a> •
+<a href ="#Analytics">Analytics</a> •
+<a href ="#Stacks">Stacks</a> •
+<a href ="#Networks">Networks</a> •
+<a href ="#Game">Game</a>
 </p>
 
-# Sobre
+## Sobre
 - 🔭 Sou dev **Front end Jr** em treinamento.
 
 - 🌱 Atualmente estou estudando **Javascript.**
