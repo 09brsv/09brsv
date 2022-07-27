@@ -14,7 +14,7 @@
 
 - 🌱 Atualmente estou estudando **Javascript.**
 
-- 👯 Alguns dos meus projetos práticos estão disponíveis em [Meu portifólio](https://portifolio01.vercel.app/). Outros ainda sendo lançados e aperfeiçoados nas linguagens **HTML5, Css3 e Js.**
+- 👯 Alguns dos meus projetos práticos estão disponíveis em [Meu portfólio](https://brunobatista01.vercel.app/). Outros ainda sendo lançados e aperfeiçoados nas linguagens **HTML5, Css3 e Js.**
 
 - 🤔 Aberto a desafios em conjunto e individuais que possam me trazer conhecimento e prática !
 
@@ -25,7 +25,6 @@
 ## Analytics
 <div align="center">
   <a href="https://github.com/09brsv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=09brsv&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09brsv&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div><br>
 
