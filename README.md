@@ -10,9 +10,7 @@
 </p>
 
 ## Sobre
-- 🔭 Sou dev **Front end Jr** em treinamento.
-
-- 🌱 Atualmente estou estudando **Javascript.**
+- 🔭 Sou estudante de **Desenvolvimento web**.
 
 - 👯 Alguns dos meus projetos práticos estão disponíveis em [Meu portfólio](https://brunobatista01.vercel.app/). Outros ainda sendo lançados e aperfeiçoados nas linguagens **HTML5, Css3 e Js.**
 
