@@ -10,7 +10,7 @@
 </p>
 
 ## Sobre
-- 🔭 Sou estudante de **Desenvolvimento web**.
+- 🔭 Atualmente estou estudando **Desenvolvimento de software com foco em BACK END na [Cubos academy](https://aulas.cubos.academy/)**.
 
 - 👯 Alguns dos meus projetos práticos estão disponíveis em [Meu portfólio](https://brunobatista01.vercel.app/). Outros ainda sendo lançados e aperfeiçoados nas linguagens **HTML5, Css3 e Javascript.**
 
