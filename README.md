@@ -1,22 +1,22 @@
-<h1 align= "left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Bruno </h1>
+<h1 align= "left"> Olá <img src="https://user-images.githubusercontent.com/104792685/236647257-64ae911c-5fca-4cc5-a798-ddb24681cc8b.gif" width="30px">, eu sou o Bruno </h1>
 <br>
 
 <p align="center">•
-<a href ="#Sobre">Sobre</a> •
+<a href ="#About">About</a> •
 <a href ="#Analytics">Analytics</a> •
 <a href ="#Stacks">Stacks</a> •
 <a href ="#Networks">Networks</a> •
 <a href ="#Game">Game</a>
 </p>
 
-## Sobre
+## About
 - 🔭 Atualmente estou estudando **Desenvolvimento de software com foco em BACK END na [Cubos academy](https://aulas.cubos.academy/)**.
 
-- 👯 Alguns dos meus projetos práticos estão disponíveis em [Meu portfólio](https://brunobatista01.vercel.app/). Outros ainda sendo lançados e aperfeiçoados nas linguagens **HTML5, Css3 e Javascript.**
+- 👯 Alguns dos meus projetos práticos estão disponíveis em [Meu portfólio](https://brunobatista01.vercel.app/). Outros ainda sendo lançados e aperfeiçoados!
 
-- 🤔 Aberto a desafios em conjunto e individuais que possam me trazer conhecimento e prática !
+- 🤔 Aberto a desafios em conjunto e individuais que possam me trazer conhecimento e prática!
 
-- 💬 Qualquer dúvida entre em contato em algumas das minhas redes sociais.
+- 💬 Qualquer dúvida, entre em contato em algumas das minhas redes sociais.
 
 - ⚡ **Disponível para trabalhos freelancer ou efetivo.** <br> <br> <br> 
 
@@ -35,12 +35,14 @@
 
 ## Stacks
 <div align="center"><br>
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+  <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+ <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Bruno-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="Bruno-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />         
   
