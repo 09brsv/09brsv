@@ -10,7 +10,7 @@
 </p>
 
 ## About
-- 🔭 Atualmente sou ** Sou especialista em desenvolvimento de software Fullstack, cursando Ciência da computação na faculdade Estácio, e segurança da informação(Hacker ético) na Escola superior de redes(RNP) no programa nacional de Cibersegurança **.
+- 🔭 Atualmente sou **Sou especialista em desenvolvimento de software Fullstack, cursando Ciência da computação na faculdade Estácio, e segurança da informação(Hacker ético) na Escola superior de redes(RNP) no programa nacional de Cibersegurança**.
 
 - 🤔 Aberto a desafios em conjunto e individuais que possam me trazer conhecimento e prática!
 
