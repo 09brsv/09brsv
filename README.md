@@ -10,13 +10,11 @@
 </p>
 
 ## About
-- 🔭 Atualmente sou **Especialista em desenvolvimento de software Fullstack, cursando Ciência da computação na faculdade Estácio, e segurança da informação(Hacker ético) na Escola superior de redes(RNP) no programa nacional de Cibersegurança**.
+- 🔭 Atualmente sou **Especialista em desenvolvimento de software na AeC, cursando Ciência da computação na faculdade Estácio, e segurança da informação(Hacker ético) na Escola superior de redes(RNP) no programa nacional de Cibersegurança**.
 
 - 🤔 Aberto a desafios em conjunto e individuais que possam me trazer conhecimento e prática!
 
 - 💬 Qualquer dúvida, entre em contato em algumas das minhas redes sociais.
-
-- ⚡ **Disponível para trabalhos freelancer ou efetivo.** <br> <br> <br> 
 
 
  ## Networks
@@ -39,13 +37,14 @@
   <img align="center" alt="Bruno-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bruno-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Bruno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Bruno-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Bruno-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss//tailwindcss-original.svg">
  <img align="center" alt="Bruno-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Bruno-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
  <img align="center" alt="Bruno-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Bruno-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+ <img align="center" alt="Bruno-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
  <img align="center" alt="Bruno-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  
+ <img align="center" alt="Bruno-sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+ <img align="center" alt="Bruno-sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
 </div>
 
 <br>
@@ -61,7 +60,9 @@
   
   ## Game
 <div align="center"> 
-  
-  ![Snake animation](https://github.com/09brsv/09brsv/blob/output/github-contribution-grid-snake.svg)
- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
